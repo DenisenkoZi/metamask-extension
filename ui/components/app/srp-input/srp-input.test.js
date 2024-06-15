@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/MetaMask/metamask-extension/ui/components/app/srp-input/srp-input.test.js
